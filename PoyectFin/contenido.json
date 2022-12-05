@@ -1,0 +1,25 @@
+{"contenido":[
+	{"tag":"saludo",
+		"patrones": ["hola", "que tal", "hi", "hello", "un saludo"],
+		"respuestas": ["Hola, ¿como estas?", "Como te va?", "Un gusto de saludarte, como te ayudo?"]
+	},
+	{"tag":"despedida",
+		"patrones": ["adios", "te veo luego", "Cuidate", "Hasta la proxima", "Hasta luego"],
+		"respuestas": ["Un gusto de mi parte ayudar", "Que te vaya bien", "Saludos", "Que tengas un excelente dia", "Nos vemos pronto"]
+	},
+	{"tag":"dudas",
+		"patrones": ["tengo una duda", "necesito ayuda", "Podrias ayudarme con algo?", "Requiero de tu apoyo", "Tengo un problema"],
+		"respuestas": ["Que puedo hacer por ti?", "Como soy util?", "Seria un placer, dime...", "Estoy para lo que necesites", "Claro, te escucho"]
+	},
+	{"tag":"rock",
+		"patrones": ["Artistas rock", "Recomendacion de Rock", "Podrias recomendarme algun artista"],
+		"respuestas": ["Gustavo Cerati", "Soda Stereo", "Caifanes", "Heroes del silencio", "Enanitos verdes"]
+	},
+	{"tag":"desayuno",
+		"patrones": ["Desayunar", "que puedo comer de desayuno?"],
+		"respuestas": ["Huevos revueltos", "Frijoles", "Cereal", "Quesadillas", "sandwich"]
+	}
+
+]
+
+}
